@@ -14,7 +14,7 @@ sections:
   template: features
   section_id: features
   features:
-  - title: Integer vitae consequat sed magna feugiat
+  - title: Quality you can trust
     icon:
       enabled: true
       icon: fa-area-chart
