@@ -19,19 +19,20 @@ sections:
       enabled: true
       icon: fa-area-chart
       style: style1
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: All products are pesticides free.Lorem ipsum dolor sit amet interdum
+      mollis sapien. Sed ac risus. Phasellus lacinia, ullamcorper laoreet, lectus
+      arcu pulvinar lorem ipsum interdum sed tempus sagittis lorem feugiat. In fringilla
+      diet consectetur. Morbi libero orci, consectetur in odio maximus felis.
   - title: Free delivery on order above ₹1200
     icon:
       enabled: true
       icon: fa-pie-chart
       style: style2
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: If the cart value is ₹1200 or more we will provide you with no delivery
+      charge.Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
+      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum sed
+      tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero orci,
+      consectetur in odio maximus felis.
   - title: No question asked return policy
     icon:
       enabled: true
