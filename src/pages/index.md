@@ -37,10 +37,11 @@ sections:
       enabled: true
       icon: fa-cube
       style: style3
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: If you don't like the product or our service its okay we can refund
+      the same and no questions will be asked.Lorem ipsum dolor sit amet interdum
+      mollis sapien. Sed ac risus. Phasellus lacinia, ullamcorper laoreet, lectus
+      arcu pulvinar lorem ipsum interdum sed tempus sagittis lorem feugiat. In fringilla
+      diet consectetur. Morbi libero orci, consectetur in odio maximus felis.
   component: Features
 - type: cta
   template: cta
