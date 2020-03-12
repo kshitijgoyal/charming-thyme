@@ -53,11 +53,16 @@ sections:
     url: "/contact"
     is_primary: false
     is_scrolly: false
-  text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-    lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus
-    sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero orci, consectetur
-    in odio maximus felis. Lorem ipsum ullamcorper laoreet, lectus arcu pulvinar lorem
-    ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet consectetur.
+  text: 'Did you ever imagine that the freshest of [**fruits and vegetables**](https://www.bigbasket.com/cl/fruits-vegetables),
+    top quality pulses and food grains, [**dairy products**](https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/)
+    and hundreds of branded items could be handpicked and delivered to your home,
+    all at the click of a button? India’s first comprehensive online megastore, bigbasket.com,
+    brings a whopping 20000+ products with more than 1000 brands, to over 4 million
+    happy customers. From household cleaning products to beauty and makeup, bigbasket
+    has everything you need for your daily needs. bigbasket.com is convenience personified
+    We’ve taken away all the stress associated with shopping for daily essentials,
+    and you can now order all your household products and even buy groceries online
+    without travelling long distances or standing in serpentine queues. '
   component: Cta
 - type: posts
   template: posts
