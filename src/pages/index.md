@@ -67,8 +67,8 @@ sections:
 - type: posts
   template: posts
   section_id: posts
-  title: Convallis amet interdum
-  subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+  title: Must have this season
+  subtitle: ''
   component: Posts
 menus:
   main:
