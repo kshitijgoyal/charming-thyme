@@ -29,7 +29,7 @@ contact_methods:
     template: contact_with_link
     title: Email
     icon: fa-envelope-o
-    text: information@untitled.tld
+    text: goratan@gmail.com
     url: "#"
 copyright:
   enabled: true
