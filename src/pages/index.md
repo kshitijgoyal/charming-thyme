@@ -47,9 +47,9 @@ sections:
 - type: cta
   template: cta
   section_id: cta
-  title: Ultrices ante sagittis nunc senectus libero netus
+  title: Goratan - Online Grocery Store
   actions:
-  - label: How it works
+  - label: Read more
     url: "/contact"
     is_primary: false
     is_scrolly: false
