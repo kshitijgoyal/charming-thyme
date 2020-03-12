@@ -4,7 +4,7 @@ banner:
   title: Ajmer Organic Farm
   subtitle: All grocery products are available
   actions:
-  - label: Learn More
+  - label: Shop Now
     url: "/no-sidebar"
     is_primary: false
     is_scrolly: false
