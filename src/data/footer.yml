@@ -4,7 +4,7 @@ about:
   title: Goratan
   text: All your grocery needs, finished or raw products are available here.
   actions:
-  - label: Learn More
+  - label: Shop now
     url: "/no-sidebar"
     is_primary: false
     is_scrolly: false
